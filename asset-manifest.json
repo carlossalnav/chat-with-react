@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chat-with-react/static/css/main.796b8d93.chunk.css",
+    "main.js": "/chat-with-react/static/js/main.1fef04de.chunk.js",
+    "main.js.map": "/chat-with-react/static/js/main.1fef04de.chunk.js.map",
+    "runtime-main.js": "/chat-with-react/static/js/runtime-main.4eec50fc.js",
+    "runtime-main.js.map": "/chat-with-react/static/js/runtime-main.4eec50fc.js.map",
+    "static/js/2.517b9efe.chunk.js": "/chat-with-react/static/js/2.517b9efe.chunk.js",
+    "static/js/2.517b9efe.chunk.js.map": "/chat-with-react/static/js/2.517b9efe.chunk.js.map",
+    "index.html": "/chat-with-react/index.html",
+    "static/css/main.796b8d93.chunk.css.map": "/chat-with-react/static/css/main.796b8d93.chunk.css.map",
+    "static/js/2.517b9efe.chunk.js.LICENSE.txt": "/chat-with-react/static/js/2.517b9efe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eec50fc.js",
+    "static/js/2.517b9efe.chunk.js",
+    "static/css/main.796b8d93.chunk.css",
+    "static/js/main.1fef04de.chunk.js"
+  ]
+}
