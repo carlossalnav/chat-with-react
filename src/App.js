@@ -7,9 +7,9 @@ import { auth } from './firebase';
 function App() {
   const [user] = useAuthState(auth)
   return (
-    <>
+    <div classname = "App">
     {user ? <Chat/> : <SignIn/>}
-    </>
+    </div>
   );
 }
 
